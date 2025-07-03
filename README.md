@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liam Whiting
+## 👋 Hi, I'm Liam Whiting
 
 🎓 4th Year Mechatronics Student at the University of Newcastle  
 🔧 Cadet Engineer @ Proway Livestock Equipment  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 - Work: liamw@proway.com.au  
 - Personal: liam.whiting@outlook.com
@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ Interests
+### ⚙️ Interests
 
 - Embedded C / RTOS  
 - MATLAB & Simulink  
@@ -23,4 +23,4 @@
 
 ---
 
-> “Be breviloquent.”
+> “keep it breviloquent.”
